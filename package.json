@@ -1,0 +1,20 @@
+{
+  "name": "bullhorn-api",
+  "version": "1.0.0",
+  "description": "Bullhorn API",
+  "homepage": "https://github.com/codler/bullhorn-api",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "ts-node test.ts"
+  },
+  "keywords": [
+    "bullhorn",
+    "oauth2"
+  ],
+  "author": "Han Lin Yap (http://yap.nu)",
+  "license": "ISC",
+  "dependencies": {
+    "fetch-register": "^1.2.0"
+  }
+}
