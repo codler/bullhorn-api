@@ -1,6 +1,6 @@
 {
   "name": "bullhorn-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bullhorn API",
   "homepage": "https://github.com/codler/bullhorn-api",
   "main": "dist/index.js",
