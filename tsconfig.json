@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "declaration": true,
-    "module": "umd",
+    "module": "amd",
     "moduleResolution": "node",
     "outDir": "dist",
     "target": "es2018",
